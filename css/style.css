@@ -222,17 +222,14 @@ h1{
 }
 .figure:hover .figcaption div{
   opacity: 1;
-  background: rgba(255, 255, 255, 0.144);
 }
 .figcaption:hover div{
   opacity: 1;
   top: 0;
-  background: rgba(255, 255, 255, 0.144);
 }
 
 .figcaption:hover div:after{
   width: 50%;
-  background: rgba(255, 255, 255, 0.144);
 }
 
 .figure:hover img{
