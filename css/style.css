@@ -222,7 +222,6 @@ h1{
 }
 .figure:hover .figcaption div{
   opacity: 1;
-  background-color: #ddd;
 }
 .figcaption:hover div{
   opacity: 1;
@@ -234,8 +233,8 @@ h1{
 }
 
 .figure:hover img{
-  -webkit-transform: scale3d(1.2, 1.2, 1);
-          transform: scale3d(1.2, 1.2, 1);
+  -webkit-transform: scale3d(0.3, 0.3, 1);
+          transform: scale3d(0.3, 0.3, 1);
 }
 #about{
 	padding-top: 10vh;
