@@ -218,7 +218,7 @@ h1{
 }
 
 .figure:hover .figcaption{
- background: rgba(255,255,255,0.3);
+ background: rgba(255, 255, 255, 0.144);
 }
 .figure:hover .figcaption div{
   opacity: 1;
