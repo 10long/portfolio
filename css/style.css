@@ -222,6 +222,7 @@ h1{
 }
 .figure:hover .figcaption div{
   opacity: 1;
+  background-color: #ddd;
 }
 .figcaption:hover div{
   opacity: 1;
