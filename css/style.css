@@ -46,7 +46,7 @@ body{
 /* HTML element that will have the glowing effect */
 .header-section {
   background: #deecdf;
-  background-image: url('../img/3.jpg');
+  background-image: url('../img/3.jpg.webp');
   text-align: center;
   min-height: 500px;
   height:100vh;
