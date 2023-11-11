@@ -218,7 +218,7 @@ h1{
 }
 
 .figure:hover .figcaption{
- background: rgba(255, 255, 255, 0.144);
+ background: rgba(255, 255, 255, 0.212);
 }
 .figure:hover .figcaption div{
   opacity: 1;
@@ -226,6 +226,7 @@ h1{
 .figcaption:hover div{
   opacity: 1;
   top: 0;
+  background-color: #ddd;
 }
 
 .figcaption:hover div:after{
